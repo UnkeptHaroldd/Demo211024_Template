@@ -1,5 +1,4 @@
 ﻿using APIDemo161024.Models;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Demo211024_Template.DatabaseConnection
